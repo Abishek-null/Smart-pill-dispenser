@@ -1,33 +1,21 @@
-🚀 My Learning Projects
+💊 Smart Pill Dispenser
 
-Welcome to my repository! 👋
+The Smart Pill Dispenser is a college project designed to help users take their medication on time through an automated dispensing system with a web-based interface.
 
-This repository contains my learning projects, practice programs, experiments, and code that I create while exploring and improving my programming skills.
+The webpage allows users to manage medication schedules. When the scheduled alarm time is reached, the system checks the user's face using face detection and dispenses the tablet as part of the intended workflow.
 
-🎯 About This Repository
+🚧 Project Status: Currently under development. The web interface and core functionality are being developed and tested, while the base code for the complete system is still in progress.
 
-The main purpose of this repository is to document my learning journey, practice coding, explore new technologies, and share useful code with the community.
+Key Features
+🌐 Web-based user interface
+⏰ Scheduled medication reminders
+📷 Face detection at the scheduled alarm time
+💊 Automatic tablet dispensing workflow
+🛠️ Ongoing development and improvements
+Objective
 
-I believe that learning is better when we share knowledge. By making my projects public, I hope to help other learners understand concepts, practice coding, find inspiration, and build their own projects.
+The goal of this project is to explore how web technologies, face detection, and automation can be combined to support medication management and encourage timely medication intake.
 
-📚 What You'll Find Here
-💻 Practice programs and coding examples
-🛠️ Learning projects and experiments
-📖 Code with explanations to help beginners
-🌱 Examples of concepts I'm learning
-🚀 Projects that I improve as my skills grow
-🤝 Open to Everyone
+This project is being developed as part of my college learning journey. Contributions, suggestions, and feedback are welcome!
 
-Everyone is welcome to explore this repository, use the code for learning and personal projects, and build upon these examples according to the repository's license.
-
-If you find something useful, feel free to ⭐ star this repository, share your feedback, or suggest improvements.
-
-🌟 My Goal
-
-My goal is to keep learning, keep building, and share what I learn with others. I hope these projects make someone's learning journey a little easier.
-
-Learn. Build. Share. Grow. 🌱
-
-Thank you for visiting my repository!
-
-Happy Coding! 💙
+Note: This is an experimental project under development and is not yet intended for unsupervised medical use.
